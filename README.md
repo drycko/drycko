@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drycko
 - 👀 I’m interested in mobile app and software development
-- 🌱 I’m currently learning Kivy, Python, Dart, Flutter, PHP, SQL, NodeJs
+- 🌱 I’m currently working with Python, Dart, Flutter, PHP, SQL, NodeJs, Javascript
 - 💞️ I’m looking to collaborate on Mobile app development, Artificial intellingence
 - 📫 Email me at donegrafiks@gmail.com or whatsapp +27712441496
 
